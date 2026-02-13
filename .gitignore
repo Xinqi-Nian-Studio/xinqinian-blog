@@ -1,0 +1,9 @@
+
+node_modules/
+.vuepress/.cache/
+.vuepress/.temp/
+.vuepress/dist/
+src/.vuepress/.cache/
+src/.vuepress/.temp/
+src/.vuepress/dist/
+.DS_Store

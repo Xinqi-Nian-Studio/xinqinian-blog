@@ -1,0 +1,42 @@
+---
+home: true
+layout: Blog
+icon: house
+title: 博客主页
+heroImage: https://s41.ax1x.com/2026/02/12/pZba5PU.png
+heroText: 新启年工作室
+heroFullScreen: true
+tagline: 每一次出发都是新的开始，每一次尝试都值得认真对待
+projects:
+  - icon: project
+    name: 开源项目
+    desc: 我们共同开发的开源工具与技术项目
+    link: /projects/
+
+  - icon: tool
+    name: 小工具集
+    desc: 日常开发中积累的实用工具和脚本
+    link: /tools/
+
+  - icon: creative
+    name: 数字创作
+    desc: 用代码和技术实现的创意作品与实验
+    link: /creations/
+
+  - icon: article
+    name: 技术心得
+    desc: 开发实践中的经验总结与深度思考
+    link: /articles/
+
+  - icon: team
+    name: 团队成员
+    desc: 认识热爱技术的伙伴们
+    link: /team/
+
+  - icon: github
+    name: GitHub
+    desc: 访问我们的GitHub组织主页
+    link: https://github.com/Xinqi-Nian-Studio
+
+footer: <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/" target="_blank">CC BY-NC-SA 4.0</a> 2025-至今 | 新启年工作室 - 自由、真诚、热爱，纯粹的技术快乐
+---
